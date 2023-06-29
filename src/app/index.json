@@ -1,0 +1,64 @@
+{
+  "navigation": [
+    {
+      "title": "About",
+      "url": "http://www.example.com/about"
+    },
+    {
+      "title": "Projects",
+      "url": "http://www.example.com/portfolio"
+    },
+    {
+      "title": "Contact",
+      "url": "http://www.example.com/contact"
+    }
+  ],
+  "hero": {
+    "name": "Sam.",
+    "subtitle": "Front-end Developer."
+  },
+  "about": {
+    "key": 1,
+    "title": "About me",
+    "image": "/samFootball.png",
+    "primary": "I'm a self-taught developer based in Washington DC, passionate about turning ideas into elegant interfaces. My expertise includes HTML5, CSS, React, and JavaScript, along with Bootstrap and Tailwind. I'm constantly expanding my skillset and dedicated to improving my craft.",
+
+    "secondary": "Driven by a love for software development, I focus on creating immersive user experiences and robust web applications. I embrace new languages and frameworks to enhance my problem-solving abilities. Attention to detail and a user-centric approach are key aspects of what I love to do. I'm excited to bring my skills and passion to new challenges."
+  },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "Mandeulja Website",
+        "description": "A website for a korean OEM service company called Mandeulja.  This website was created using React, Tailwind CSS, and EmailJs. ",
+        "url": "https://mandulja.vercel.app/",
+        "github": "https://github.com/scha4/mandulja",
+        "image": "/project1screenshot.png"
+      },
+      {
+        "title": "Secret Chat",
+        "description": "A fully functional chat app with authentication and protected routing. Users can create an account and it will be stored in firebase. This app was created using React JS, firebase, vite, and tailwind CSS ",
+        "url": "https://secretchat-pink.vercel.app/",
+        "github": "https://github.com/scha4/superchat",
+        "image": "/secretchat.jpg"
+      },
+      {
+        "title": "Nexus Works",
+        "description": "A fully functional website created for a client using React JS, CSS, React router, and Email JS.",
+        "url": "https://master--celadon-melomakarona-0ef17c.netlify.app/",
+        "github": "https://github.com/scha4/nexusworks",
+        "image": "/nexusworksscreen.png"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
+    "formId": "your-form-id"
+  },
+  "footer": {
+    "linkedin": "https://linkedin.com/in/samcha4",
+    "twitter": "https://twitter.com/samchatech",
+    "github": "https://github.com/scha4"
+  }
+}
